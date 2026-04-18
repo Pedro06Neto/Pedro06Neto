@@ -1,4 +1,3 @@
-# pedroneto
 # Olá, eu sou Pedro Neto 👋
 
 ### Estudante de Bacharelado em Inteligência Artificial
@@ -27,9 +26,4 @@
 
 ---
 
-## Onde me encontrar
-
-(99) 99201-1134
----
-
-> "Todo experiente já foi um dia iniciante." — Começando agora, sem pressa, mas sem parar.
+> "Toda expertise já foi um dia iniciante." — Começando agora, sem pressa, mas sem parar.

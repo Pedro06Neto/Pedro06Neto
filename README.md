@@ -26,4 +26,9 @@
 
 ---
 
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-99%209201--1134-green)
+
+
+
 > "Toda expertise já foi um dia iniciante." — Começando agora, sem pressa, mas sem parar.

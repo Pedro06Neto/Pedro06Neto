@@ -32,4 +32,4 @@
 (99) 99201-1134
 ---
 
-> "Toda expertise já foi um dia iniciante." — Começando agora, sem pressa, mas sem parar.
+> "Todo experiente já foi um dia iniciante." — Começando agora, sem pressa, mas sem parar.

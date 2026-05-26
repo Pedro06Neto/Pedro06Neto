@@ -1,34 +1,26 @@
-# Olá, eu sou Pedro Neto 👋
-
-### Estudante de Bacharelado em Inteligência Artificial
-
+# Hello, I'm Pedro Neto 👋
+### Bachelor's Student in Artificial Intelligence
 ![PIT](https://img.shields.io/badge/PIT-Piauí_Instituto_de_Tecnologia-blue)
-![Semestre](https://img.shields.io/badge/Semestre-1º-green)
-![Localização](https://img.shields.io/badge/Teresina-PI,_Brasil-purple)
+![Location](https://img.shields.io/badge/Teresina-PI,_Brazil-purple)
 
 ---
 
-## Sobre mim
-
-- 🤖 Apaixonado por tecnologia e inteligência artificial
-- 🌱 Estou no início da minha jornada como desenvolvedor e pesquisador de IA
-- 📚 Atualmente aprendendo os fundamentos de programação, matemática e machine learning
-- 🤝 Em busca de conexões com a comunidade tech e novos aprendizados
-- 📍 Teresina, Piauí — Brasil
+## About me
+- 🤖 Passionate about technology and artificial intelligence
+- 🌱 I'm at the beginning of my journey as an AI developer and researcher
+- 💻 Currently learning the fundamentals of programming, mathematics and machine learning
+- 🤝 Looking for connections with the tech community and new knowledge
+- 📍 Teresina, Piauí — Brazil
 
 ---
 
-## Atualmente estudando
-
+## Currently studying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Matemática](https://img.shields.io/badge/Matemática_para_IA-orange?style=flat)
-![Lógica](https://img.shields.io/badge/Lógica_de_Programação-gray?style=flat)
+![Mathematics](https://img.shields.io/badge/Mathematics_for_AI-orange?style=flat)
+![Logic](https://img.shields.io/badge/Programming_Logic-gray?style=flat)
 
 ---
-
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-99%209201--1134-green)](https://wa.me/559992011134)
 
-
-
-> "Toda expertise já foi um dia iniciante." — Começando agora, sem pressa, mas sem parar.
+> "Every expert was once a beginner." — Starting now, no rush, but never stopping.
